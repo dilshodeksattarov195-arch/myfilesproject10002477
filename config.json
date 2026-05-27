@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokencecrypt",
+        "uuid": 3438076,
+        "checksum": "hdxiql"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
